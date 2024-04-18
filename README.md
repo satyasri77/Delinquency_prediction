@@ -14,6 +14,6 @@ Var6	  income (in a month)	int
 Var7	  no. of open loans &  lines of credit	int 
 Var8	  #times borrower has been 90 days or more past due.	int 
 Var9	  no. of mortgage and real estate loans	int  
-Var10	  #times borrower has been 60-89 days past due but no worse in the last 2 years.	int 
+Var10	  #times borrower has been 60-89 days past due but no worse in the last 2 years. int 
 Var11	  #dependents	int
 
